@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
+</div>
