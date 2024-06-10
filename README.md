@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  Hi there 👋 <br>
+  Hi there! I'm a passionate DevOps and IT-infrastructure consultant with over 15 years of Unix-focused experience.<br>
   <br>
-  
-  <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="200"/>
 </div>
+<!--  <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="200"/> -->
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smirnov-mi&hide_border=true" alt="GitHub Streak" /></a> 
+ </br>
+ <img src="https://komarev.com/ghpvc/?username=smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
+ 
 </div>
-
