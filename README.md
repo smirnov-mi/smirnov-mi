@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 
 <div id="header" align="center">
-  ## Hi there 👋
+  Hi there 👋
   <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
 </div>
 
