@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
 </div>
+
+![](https://komarev.com/ghpvc/?username=smirnov-mi)
