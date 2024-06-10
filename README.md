@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **smirnov-mi/smirnov-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  ## Hi there 👋
+  <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="200"/>
 </div>
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=smirnov-mi&style=flat-square&color=blue" alt="Visitors"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=smirnov-mi)
