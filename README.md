@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  Hi there! I'm a passionate DevOps and IT-infrastructure consultant with over 15 years of Unix-focused experience.<br>
+  Hi there! I'm a passionate DevOps and IT-infrastructure consultant with over 15 years of Unix-focused experience.<br> 
+  Proficient in RHEL, Ubuntu, Solaris, Terraform and Ansible, certified in Kubernetes. <br>
   <br>
 </div>
 <!--  <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="200"/> -->
